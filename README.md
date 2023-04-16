@@ -1,1 +1,1 @@
-# Etch-A-Sketch
+ Project: Etch-a-Sketch. One of foundation assignment form the Odin project

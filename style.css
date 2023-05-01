@@ -18,13 +18,16 @@ form{
     height: 352px;
     border: solid black;
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
 }
-
-.square{
+.row{
+    
+    display: flex;
     flex: 1;
-    flex-basis: 30px;
-    border: solid red 1px;
+}
+.square{
+
+    flex: 1;
 }
 
 .squareVisited{
